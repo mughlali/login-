@@ -1,0 +1,22 @@
+body{
+	
+	background:sliver;
+	margin:10px;
+	background: url(iii.jpg) no-repeat;
+	background-size:cover;
+	
+}
+h1{
+	
+	background:blue;
+	color:white;
+	width:300px;
+	
+	
+}
+button{
+	
+	background:blue;
+	color:white;
+	
+}
